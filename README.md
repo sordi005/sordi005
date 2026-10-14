@@ -30,6 +30,7 @@ App web multi-negocio (PWA) que funciona en celular y PC: ventas, control de sto
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
+| [Tesis: automatización post-venta con IA](https://github.com/IgnacioOdorico/Automatizacion-de-Atencion-al-Cliente-en-E-commerce-e-Inteligencia-Artificial) | Trabajo final UTN (desarrollador principal): pipeline de órdenes y chatbot omnicanal con IA para WhatsApp, Telegram y email, con métricas en Grafana | n8n · PostgreSQL · Docker · Grafana · OpenAI API |
 | [user-management-api](https://github.com/sordi005/user-management-api) | API REST de usuarios con autenticación JWT, roles, migraciones y tests | Java 21 · Spring Boot 3 · Spring Security · PostgreSQL · Docker |
 | [remote-work-planner](https://github.com/sordi005/remote-work-planner) | App de escritorio para asignar días de trabajo remoto, con instalador para Windows | Python · PyQt6 · SQLite · PyInstaller |
 | [parcial](https://github.com/sordi005/parcial) | App fullstack de gestión de productos con relaciones N:N | FastAPI · SQLModel · React · TypeScript · TanStack Query |
